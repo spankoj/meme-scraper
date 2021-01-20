@@ -1,0 +1,9 @@
+{
+  "name": "meme-scraper",
+  "version": "1.0.0",
+  "description": "meme scraper exercise",
+  "main": "index.js",
+  "repository": "https://github.com/spankoj/meme-scraper.git",
+  "author": "Janos Spanyol <spanyesz@gmail.com>",
+  "license": "MIT"
+}
